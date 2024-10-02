@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-02T23:05:42+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Ivan/Downloads/copy_E05CFE23-91DE-48EC-AC38-A3EB9679B92E_1.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./copy_E05CFE23-91DE-48EC-AC38-A3EB9679B92E_1.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:61ff2129-3b4a-4d8a-91a3-fe626cb56c1d</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="883506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="885937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="886392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="889241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="889721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="890342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="890860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="893261"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="893472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="894010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="894168"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="895928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="896404"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="898239"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="898885"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="901045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="901351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="902418"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="902823"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="903603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="904012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="904493"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="905645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="907314"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="907544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="910747"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="911341"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="912025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="914424"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="918620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="918671"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="918987"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="919164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="923303"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="923619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="925095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="925544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="926241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="926557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="928550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="928772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="932995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="933949"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="934873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="935114"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="938516"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="939366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="940541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="941392"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="945722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="945822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="946799"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="947430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="954586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="954586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="955344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="955896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="960056"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Шестаков Иван" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="Слесарев Влад" TIER_ID="text@vds2006f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ну мы вот этот мир строили строили и не достроили</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>потому что у нас сначала закончилась подписка на</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>на сервер</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>потом когда мы их когда твое когда моё уже восстановили</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>аам...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>пропал интерес к игре у моего товарища</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>играть в одиночку как-то не так интересно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>тем более что этот мой друг</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>не такой творческий как я</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>иии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>он</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>у него не было прям большого энтузиазма</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>поддерживать что-то такое масштабное строить</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ааа в этом мире</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>к сожалению у меня появился компьютер только сейчас буквально месяц назад</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>а до этого были только мобильные игры</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>иии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>и я играл во что попало наверное</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>несколько лет играл в brawl stars потому что это была самая известная игра в жанре шутеры</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>которая доступна с телефона</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>и в которую играют много друзей с которыми можно вместе провести время</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>но она мне надоела очень быстро</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>конфликты по поводу игр?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>эм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>на деле нет но если тебе если ты думаешь что тебя будут дразнить ты просто об этом не говоришь и всё</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Шестаков Иван" LINGUISTIC_TYPE_REF="default-lt"
+        PARTICIPANT="Шестаков Иван" TIER_ID="text@sid2006f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>[нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>У тебя бывали какие-нибудь конфликты связанные на фоне как раз этих игр?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ну я помню что вот у нас например в классе временами дразнили тех кто играет в определенные игры</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
