@@ -70,7 +70,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="960056"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="Шестаков Иван" LINGUISTIC_TYPE_REF="utterance"
-        PARTICIPANT="Слесарев Влад" TIER_ID="text@vds2006f">
+        PARTICIPANT="Слесарев Влад" TIER_ID="text@vds2006m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -229,7 +229,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="Шестаков Иван" LINGUISTIC_TYPE_REF="utterance"
-        PARTICIPANT="Шестаков Иван" TIER_ID="text@sid2006f">
+        PARTICIPANT="Шестаков Иван" TIER_ID="text@sid2006m">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
                 TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
